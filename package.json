@@ -1,0 +1,15 @@
+{
+  "name": "humane-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A port of my Humane theme for Visual Studio to Atom.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/damieng/atom-humane-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
