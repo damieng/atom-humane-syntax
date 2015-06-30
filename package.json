@@ -1,7 +1,7 @@
 {
   "name": "humane-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A port of my Humane theme for Visual Studio to Atom.",
   "keywords": [
     "syntax",
