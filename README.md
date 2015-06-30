@@ -1,4 +1,4 @@
 # atom-humane-syntax theme
 
 A port of my Humane theme for Visual Studio http://studiostyl.es/schemes/humane-studio to Atom.
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of Humane theme](https://cloud.githubusercontent.com/assets/118951/8423403/5651d904-1e9d-11e5-8b61-eeca55656f43.png)
